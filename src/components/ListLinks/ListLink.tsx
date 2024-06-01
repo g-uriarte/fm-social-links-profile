@@ -12,7 +12,7 @@ export const ListLink: FC<ListLinkProps> = ({
     return (
         <div className='flex flex-col gap-3'>
             {socialLinks.map(sl => (
-                <ItemLink text={sl.name} link={sl.link} />
+                <ItemLink  key={sl.link} text={sl.name} link={sl.link} />
             ))}
         </div>
     )
