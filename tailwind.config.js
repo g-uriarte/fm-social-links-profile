@@ -11,6 +11,7 @@ export default {
 				"social-grey": "hsl(0, 0%, 20%)",
 			},
 			textColor: {
+				"social-white": 'hsl(0, 0%, 100%)',
 				"grayish-blue": "hsl(219, 14%, 63%)",
 				"dark-grayish-blue": "hsl(219, 12%, 42%)",
 				"very-dark-blue": "hsl(224, 21%, 14%)",
