@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Social links page](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Social links page](https://g-uriarte.github.io/fm-social-links-profile/)
+- Live Site URL: [live site](https://g-uriarte.github.io/fm-social-links-profile/)
 
 ## My process
 
