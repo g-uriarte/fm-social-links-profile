@@ -45,5 +45,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [g-uriarte](https://www.your-site.com)
 - Frontend Mentor - [@g-uriarte](https://www.frontendmentor.io/profile/g-uriarte)
